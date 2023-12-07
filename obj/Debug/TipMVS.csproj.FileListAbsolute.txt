@@ -1,0 +1,7 @@
+C:\Users\1207\Desktop\siyana\TipMVS\bin\Debug\TipMVS.exe.config
+C:\Users\1207\Desktop\siyana\TipMVS\bin\Debug\TipMVS.exe
+C:\Users\1207\Desktop\siyana\TipMVS\bin\Debug\TipMVS.pdb
+C:\Users\1207\Desktop\siyana\TipMVS\obj\Debug\TipMVS.csproj.AssemblyReference.cache
+C:\Users\1207\Desktop\siyana\TipMVS\obj\Debug\TipMVS.csproj.CoreCompileInputs.cache
+C:\Users\1207\Desktop\siyana\TipMVS\obj\Debug\TipMVS.exe
+C:\Users\1207\Desktop\siyana\TipMVS\obj\Debug\TipMVS.pdb
